@@ -1,7 +1,7 @@
 // Question Array 
 var questions = [
     {
-      title: "THe working title for Star Wars was Blue Harvest.",
+      title: "The working title for Star Wars was Blue Harvest.",
       choices: ["True", "False"],
       answer: "True"
     },
